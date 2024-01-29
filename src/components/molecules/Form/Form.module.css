@@ -1,0 +1,27 @@
+.row {
+    display: flex;
+    gap: 20px;
+}
+
+.col {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.col input {
+    background-color: #b3b3b3;
+    border-radius: 5px;
+    border: none;
+    padding: 8px;
+}
+
+.btn {
+    background-color: #044730;
+    color: #fff;
+    border-radius: 5px;
+    width: 100%;
+    margin-top: 20px;
+    border: none;
+    padding: 10px;
+}

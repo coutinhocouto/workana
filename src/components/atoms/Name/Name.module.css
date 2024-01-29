@@ -1,0 +1,17 @@
+.title {
+    font-weight: 700;
+    font-size: 4em;
+    line-height: 1;
+    margin: 0;
+}
+
+.title span:first-child {
+    text-transform: capitalize;
+}
+
+.element {
+    color: #fff;
+    background-color: #055036;
+    display: inline-block;
+    padding: 0 5px;
+}
